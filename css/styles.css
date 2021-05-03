@@ -149,4 +149,24 @@ nav {
   .presentation {
     flex-direction: column;
   }
+  .introduction {
+    text-align: center;
+    margin-top: 5vh;
+  }
+  .intro-text h1 {
+    font-size: 30px;
+  }
+  .intro-text p {
+    font-size: 18px;
+  }
+
+  .cta {
+    padding: 10px 0px 0px 0px;
+  }
+  .laptop-select {
+    bottom: -7%;
+    right: 50%;
+    width: 50%;
+    transform: translate(50%, 5%);
+  }
 }
